@@ -14,7 +14,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * This class more or less runs the whole game
  * PCEH commands runs all user interactions and manages to check wether an command is valid or false
  */
 
@@ -31,4 +30,5 @@ namespace BattleShipGame.ViewModels
         }
     }
 }
+
 
