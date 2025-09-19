@@ -1,7 +1,7 @@
 ﻿/*
- * Auhtor: Arian Shaafi
+ * Auhtor: Arian Sjöström
  * B.Sc Comuputer Science & Mobile IT
- * Alma Mater: Malmö University & Luleå University Of Technology
+ * Malmö University & Luleå University Of Technology
  * Spec: AI Development / Software Engineering / GPD
  */
 
@@ -52,3 +52,4 @@ namespace BattleShipGame.ViewModels
         }
     }
 }
+
