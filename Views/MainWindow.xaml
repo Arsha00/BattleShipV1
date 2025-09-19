@@ -1,4 +1,4 @@
-﻿<!--Author: Arian Shaafi-->
+﻿<!--Author: Arian Sjöström-->
 
 <Window x:Class="BattleshipGame.Views.MainWindow"
 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -94,4 +94,5 @@ Title="BattleShip V1" Height="600" Width="1000">
             </ItemsControl>
         </Grid>
     </Grid>
+
 </Window>
